@@ -14,23 +14,32 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Deploy-Dev|Any CPU = Deploy-Dev|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{ADA2E96D-0834-4958-B357-8253CB9DB917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADA2E96D-0834-4958-B357-8253CB9DB917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA2E96D-0834-4958-B357-8253CB9DB917}.Deploy-Dev|Any CPU.ActiveCfg = Deploy-Dev|Any CPU
+		{ADA2E96D-0834-4958-B357-8253CB9DB917}.Deploy-Dev|Any CPU.Build.0 = Deploy-Dev|Any CPU
 		{ADA2E96D-0834-4958-B357-8253CB9DB917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADA2E96D-0834-4958-B357-8253CB9DB917}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CE727ED8-025F-4156-A381-25AF67257069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CE727ED8-025F-4156-A381-25AF67257069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE727ED8-025F-4156-A381-25AF67257069}.Deploy-Dev|Any CPU.ActiveCfg = Deploy-Dev|Any CPU
+		{CE727ED8-025F-4156-A381-25AF67257069}.Deploy-Dev|Any CPU.Build.0 = Deploy-Dev|Any CPU
 		{CE727ED8-025F-4156-A381-25AF67257069}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE727ED8-025F-4156-A381-25AF67257069}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F5AE7E6B-41C3-45DD-B335-F6E82335AF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F5AE7E6B-41C3-45DD-B335-F6E82335AF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AE7E6B-41C3-45DD-B335-F6E82335AF98}.Deploy-Dev|Any CPU.ActiveCfg = Deploy-Dev|Any CPU
+		{F5AE7E6B-41C3-45DD-B335-F6E82335AF98}.Deploy-Dev|Any CPU.Build.0 = Deploy-Dev|Any CPU
 		{F5AE7E6B-41C3-45DD-B335-F6E82335AF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5AE7E6B-41C3-45DD-B335-F6E82335AF98}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BAD6AD11-1DDA-4689-81FB-37EDABD41787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BAD6AD11-1DDA-4689-81FB-37EDABD41787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD6AD11-1DDA-4689-81FB-37EDABD41787}.Deploy-Dev|Any CPU.ActiveCfg = Deploy-Dev|Any CPU
+		{BAD6AD11-1DDA-4689-81FB-37EDABD41787}.Deploy-Dev|Any CPU.Build.0 = Deploy-Dev|Any CPU
 		{BAD6AD11-1DDA-4689-81FB-37EDABD41787}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD6AD11-1DDA-4689-81FB-37EDABD41787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
